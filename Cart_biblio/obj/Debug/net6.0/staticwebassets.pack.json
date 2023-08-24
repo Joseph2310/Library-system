@@ -1,0 +1,377 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Cart_biblio\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Cart_biblio.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Cart_biblio.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\Img\\2rdow3iqvuw1qhjvxf527isb7i7h.jpeg",
+      "PackagePath": "staticwebassets\\Img\\2rdow3iqvuw1qhjvxf527isb7i7h.jpeg"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\Img\\330px-To_Kill_a_Mockingbird_(first_edition_cover).jpg",
+      "PackagePath": "staticwebassets\\Img\\330px-To_Kill_a_Mockingbird_(first_edition_cover).jpg"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\Img\\4hkku1sl8y3fh8ggaazav5o65uqp.jpeg",
+      "PackagePath": "staticwebassets\\Img\\4hkku1sl8y3fh8ggaazav5o65uqp.jpeg"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\Img\\Designed for joy.jpg",
+      "PackagePath": "staticwebassets\\Img\\Designed for joy.jpg"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\Img\\a guide for creativity.jpg",
+      "PackagePath": "staticwebassets\\Img\\a guide for creativity.jpg"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\Img\\borrow.jpg",
+      "PackagePath": "staticwebassets\\Img\\borrow.jpg"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\Img\\deep work.jpg",
+      "PackagePath": "staticwebassets\\Img\\deep work.jpg"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\Img\\default.jpg",
+      "PackagePath": "staticwebassets\\Img\\default.jpg"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\Img\\diving deeper inside.jpg",
+      "PackagePath": "staticwebassets\\Img\\diving deeper inside.jpg"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\Img\\epke1jolmtb858vv9ctbtxpa8yi6.jpeg",
+      "PackagePath": "staticwebassets\\Img\\epke1jolmtb858vv9ctbtxpa8yi6.jpeg"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\Img\\f3c7tsem4xhwb4micpo47ugbbmhl.jpeg",
+      "PackagePath": "staticwebassets\\Img\\f3c7tsem4xhwb4micpo47ugbbmhl.jpeg"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\Img\\f7nkbyqfsnrrlct3hs01jkrz2vdi.jpeg",
+      "PackagePath": "staticwebassets\\Img\\f7nkbyqfsnrrlct3hs01jkrz2vdi.jpeg"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\Img\\f8uct7xgd8cz5cw1dsz54zc6swlc.jpeg",
+      "PackagePath": "staticwebassets\\Img\\f8uct7xgd8cz5cw1dsz54zc6swlc.jpeg"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\Img\\gvx0r9lfgd8w3mm2ef7vssyi2aaz.jpeg",
+      "PackagePath": "staticwebassets\\Img\\gvx0r9lfgd8w3mm2ef7vssyi2aaz.jpeg"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\Img\\huntress.jpg",
+      "PackagePath": "staticwebassets\\Img\\huntress.jpg"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\Img\\hwi2qqngyicqz7s7ps4x4k1ei14k.jpeg",
+      "PackagePath": "staticwebassets\\Img\\hwi2qqngyicqz7s7ps4x4k1ei14k.jpeg"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\Img\\kudnd6hjgwhd190ozepfx6g8js7g.jpeg",
+      "PackagePath": "staticwebassets\\Img\\kudnd6hjgwhd190ozepfx6g8js7g.jpeg"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\Img\\o6ygsbi6c0q1nl9z38x6c6027sxo.jpeg",
+      "PackagePath": "staticwebassets\\Img\\o6ygsbi6c0q1nl9z38x6c6027sxo.jpeg"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\Img\\p1hex7c8wgkjjvks6pogmjloyj0p.jpeg",
+      "PackagePath": "staticwebassets\\Img\\p1hex7c8wgkjjvks6pogmjloyj0p.jpeg"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\Img\\phz3vc780qvnafu8phrzjyptq75a.jpeg",
+      "PackagePath": "staticwebassets\\Img\\phz3vc780qvnafu8phrzjyptq75a.jpeg"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\Img\\the kiwi project.jpg",
+      "PackagePath": "staticwebassets\\Img\\the kiwi project.jpg"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\Img\\tyxilwq93riaj4702yj9ntkf6o8g.jpeg",
+      "PackagePath": "staticwebassets\\Img\\tyxilwq93riaj4702yj9ntkf6o8g.jpeg"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\Img\\wdlx7kyxzmcf20izd4j3m0kqg39g.jpeg",
+      "PackagePath": "staticwebassets\\Img\\wdlx7kyxzmcf20izd4j3m0kqg39g.jpeg"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\Img\\x28g3tdbiy7pbztil4yetfx3o2im.jpeg",
+      "PackagePath": "staticwebassets\\Img\\x28g3tdbiy7pbztil4yetfx3o2im.jpeg"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\css\\background.png",
+      "PackagePath": "staticwebassets\\css\\background.png"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\css\\hometitle.png",
+      "PackagePath": "staticwebassets\\css\\hometitle.png"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\css\\logo.png",
+      "PackagePath": "staticwebassets\\css\\logo.png"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\js\\jquery-3.6.4.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.6.4.min.js"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Cart_biblio\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Cart_biblio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Cart_biblio.props",
+      "PackagePath": "build\\Cart_biblio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Cart_biblio.props",
+      "PackagePath": "buildMultiTargeting\\Cart_biblio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Cart_biblio.props",
+      "PackagePath": "buildTransitive\\Cart_biblio.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,129 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Cart_biblio
+build_property.RootNamespace = Cart_biblio
+build_property.ProjectDir = D:\Cart_biblio\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Cart_biblio
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Cart_biblio/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Cart_biblio/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Cart_biblio/Views/BookEntry/BookEntry.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va0VudHJ5XEJvb2tFbnRyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Cart_biblio/Views/BookEntry/NewBookEntry.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va0VudHJ5XE5ld0Jvb2tFbnRyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Cart_biblio/Views/BookEntry/OldBookEntry.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va0VudHJ5XE9sZEJvb2tFbnRyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Cart_biblio/Views/Book/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xDYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Cart_biblio/Views/Book/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Cart_biblio/Views/Book/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Cart_biblio/Views/Book/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Cart_biblio/Views/Book/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Cart_biblio/Views/Book/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Cart_biblio/Views/Book/Show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xTaG93LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Cart_biblio/Views/Book/userHistory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1x1c2VySGlzdG9yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Cart_biblio/Views/Borrow/Borrow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9ycm93XEJvcnJvdy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Cart_biblio/Views/Buy/Buy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnV5XEJ1eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Cart_biblio/Views/ClientInformation/ClientInformation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50SW5mb3JtYXRpb25cQ2xpZW50SW5mb3JtYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Cart_biblio/Views/ClientsHistory/ClientsHistory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c0hpc3RvcnlcQ2xpZW50c0hpc3RvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Cart_biblio/Views/ClientsHistory/ClientsHistoryView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c0hpc3RvcnlcQ2xpZW50c0hpc3RvcnlWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Cart_biblio/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Cart_biblio/Views/Home/Index2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleDIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Cart_biblio/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Cart_biblio/Views/Home/Success.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdWNjZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Cart_biblio/Views/Return/Return.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV0dXJuXFJldHVybi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Cart_biblio/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Cart_biblio/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Cart_biblio/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Cart_biblio/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Cart_biblio/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-sy5gkaakvu
